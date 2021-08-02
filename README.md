@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sprakhar11" alt="sprakhar11" /> </p>
+
+
 - 🔭 I’m currently working on c++ and Python
 - 🌱 I’m currently learning Data structure and Algorithms
 - 👯 I’m looking to collaborate on ..
