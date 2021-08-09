@@ -33,7 +33,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakhar11&layout=compact&langs_count=10" alt="sprakhar11" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sprakhar11&show_icons=true" alt="sprakhar11" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sprakhar11&show_icons=true&theme=radical" alt="sprakhar11" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sprakhar11&layout=compact" />
