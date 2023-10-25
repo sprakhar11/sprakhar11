@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sprakhar11" alt="sprakhar11" /> </p>
 <ul>
   <li>🔭 Competitive Programmer</li>
-  <li>🌱 I’m currently working on C++ and Python</li>
+  <li>🌱 I’m currently working on NodeJS </li>
   <li>💬 Ask me about Data structure and algorithms</li>
 </ul>
 
