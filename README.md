@@ -3,11 +3,11 @@
 
 
 <h1 align="center">Hi , I am Prakhar Sharma</h1>
-<p align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product.I have an immense interest in automating things up and contributing to open source.</p>
+<p align="center">A meticulous and passionate person, having the ability to bounce back in any circumstance and come up with optimal solutions that can add value to the final product. I have an immense interest in automating things up and contributing to open source.</p>
 <img src="https://github-hero-readme.vercel.app/api?username=sprakhar11&linkedin=Prakhar-Sharma-🇮🇳&&twitter=Prakhar&description=Open Source | Competitive Programmer" width="100%">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sprakhar11" alt="sprakhar11" /> </p>
 <ul>
-  <li>🔭 Competitive Programmer</li>
+  <li>🔭 Good Problem Solver</li>
   <li>🌱 I’m currently working on NodeJS </li>
   <li>💬 Ask me about Data structure and algorithms</li>
 </ul>
