@@ -31,13 +31,13 @@
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakhar11&layout=compact&langs_count=10&theme=dark" alt="sprakhar11" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakhar11&layout=compact&langs_count=10&theme=light" alt="sprakhar11" />
 </p>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sprakhar11&show_icons=true&theme=dark" alt="sprakhar11" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sprakhar11&show_icons=true&theme=light" alt="sprakhar11" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sprakhar11&layout=compact&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sprakhar11&layout=compact&theme=light" />
 </p>
 
 <h2 align="center">Connect with me</h2>
