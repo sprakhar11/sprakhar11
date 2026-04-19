@@ -22,7 +22,7 @@
 </div>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5" width="100%"/>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
@@ -49,7 +49,7 @@ const prakhar = {
 - 🧩 &nbsp;Solved **1080+** problems across competitive platforms
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5" width="100%"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
 
@@ -81,7 +81,7 @@ const prakhar = {
 </div>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5" width="100%"/>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> &nbsp;Work Experience
@@ -130,7 +130,7 @@ const prakhar = {
 </details>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5" width="100%"/>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> &nbsp;Achievements
 
@@ -140,9 +140,9 @@ const prakhar = {
 <tr>
 <td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="48"/><br/><b>SIH Winner</b><br/><sub>National Level 2022<br/>Ministry of Education</sub></td>
 <td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="48"/><br/><b>Star of Month</b><br/><sub>Awarded 4 times<br/>in a single year</sub></td>
-<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ice.png" width="48"/><br/><b>ICPC Regional</b><br/><sub>Rank 70<br/>Gwalior-Pune 2021</sub></td>
-<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ice.png" width="48"/><br/><b>ICPC Regional</b><br/><sub>Rank 125<br/>Kanpur-Mathura 2022</sub></td>
-<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" width="48"/><br/><b>1080+ Solved</b><br/><sub>LC · CF · CC · GFG</sub></td>
+<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="48"/><br/><b>ICPC Regional</b><br/><sub>Rank 70<br/>Gwalior-Pune 2021</sub></td>
+<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="48"/><br/><b>ICPC Regional</b><br/><sub>Rank 125<br/>Kanpur-Mathura 2022</sub></td>
+<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="48"/><br/><b>1080+ Solved</b><br/><sub>LC · CF · CC · GFG</sub></td>
 </tr>
 </table>
 
@@ -160,7 +160,7 @@ const prakhar = {
 </div>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5" width="100%"/>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Stats
@@ -189,7 +189,7 @@ const prakhar = {
 </div>
 
 <!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5" width="100%"/>
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
