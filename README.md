@@ -25,9 +25,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5" width="100%"/>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
-
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="120"/>
+## 🧑‍💻 &nbsp;About Me
 
 ```js
 const prakhar = {
@@ -51,7 +49,7 @@ const prakhar = {
 <!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5" width="100%"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
@@ -84,7 +82,7 @@ const prakhar = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5" width="100%"/>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> &nbsp;Work Experience
+## 🚀 &nbsp;Work Experience
 
 <details>
 <summary><b>🟢 &nbsp;Vittaka (Equirus Wealth Subsidiary) — Software Engineer &nbsp;|&nbsp; Sep 2025 – Present</b></summary>
@@ -132,17 +130,17 @@ const prakhar = {
 <!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5" width="100%"/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> &nbsp;Achievements
+## 🏆 &nbsp;Achievements
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="48"/><br/><b>SIH Winner</b><br/><sub>National Level 2022<br/>Ministry of Education</sub></td>
-<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="48"/><br/><b>Star of Month</b><br/><sub>Awarded 4 times<br/>in a single year</sub></td>
-<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="48"/><br/><b>ICPC Regional</b><br/><sub>Rank 70<br/>Gwalior-Pune 2021</sub></td>
-<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="48"/><br/><b>ICPC Regional</b><br/><sub>Rank 125<br/>Kanpur-Mathura 2022</sub></td>
-<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="48"/><br/><b>1080+ Solved</b><br/><sub>LC · CF · CC · GFG</sub></td>
+<td align="center" width="140">🏆<br/><b>SIH Winner</b><br/><sub>National Level 2022<br/>Ministry of Education</sub></td>
+<td align="center" width="140">⭐<br/><b>Star of Month</b><br/><sub>Awarded 4 times<br/>in a single year</sub></td>
+<td align="center" width="140">💎<br/><b>ICPC Regional</b><br/><sub>Rank 70<br/>Gwalior-Pune 2021</sub></td>
+<td align="center" width="140">💎<br/><b>ICPC Regional</b><br/><sub>Rank 125<br/>Kanpur-Mathura 2022</sub></td>
+<td align="center" width="140">💡<br/><b>1080+ Solved</b><br/><sub>LC · CF · CC · GFG</sub></td>
 </tr>
 </table>
 
@@ -163,7 +161,7 @@ const prakhar = {
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1.5" width="100%"/>
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Stats
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
@@ -205,7 +203,7 @@ const prakhar = {
 <!-- FOOTER -->
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" /> Let's Connect & Build Something Amazing!
+### 🤝 Let's Connect & Build Something Amazing!
 
 <br/>
 
