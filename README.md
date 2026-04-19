@@ -1,239 +1,195 @@
 <div align="center">
 
-<!-- HEADER SECTION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C63FF,100:00D9FF&height=220&section=header&text=PRAKHAR%20SHARMA&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20Architect%20%7C%20Problem%20Solver&descSize=18&descColor=A9FEF7&descAlignY=55&animation=fadeIn"/>
+<!-- HEADER BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C63FF,100:00D9FF&height=220&section=header&text=PRAKHAR%20SHARMA&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Backend%20Architect%20%E2%80%A2%20Problem%20Solver&descSize=16&descColor=A9FEF7&descAlignY=55&animation=fadeIn"/>
 
-<!-- ANIMATED TYPING -->
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=70&lines=%3E+Building+scalable+systems+that+handle+millions+of+records;%3E+Turning+complex+problems+into+elegant+solutions)](https://git.io/typing-svg)
+<!-- TYPING EFFECT -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&random=false&width=500&height=30&lines=Backend+Engineer+%40+Fintech;2%2B+Years+of+Scalable+Systems;1080%2B+DSA+Problems+Solved;SIH+Winner+%7C+ICPC+Regionalist)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- SOCIAL LINKS - Neon Style -->
-<a href="https://www.linkedin.com/in/sprakhar07/">
-  <img src="https://img.shields.io/badge/-%40sprakhar07-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="25"/>
-</a>&nbsp;
-<a href="mailto:prakhar.infinity@gmail.com">
-  <img src="https://img.shields.io/badge/-prakhar.infinity-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25"/>
-</a>&nbsp;
-<a href="https://leetcode.com/prakhar_infinity/">
-  <img src="https://img.shields.io/badge/-prakhar__infinity-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="25"/>
-</a>&nbsp;
-<a href="https://codeforces.com/profile/prakhar_infinity">
-  <img src="https://img.shields.io/badge/-prakhar__infinity-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" height="25"/>
-</a>&nbsp;
-<a href="https://github.com/sprakhar11">
-  <img src="https://img.shields.io/badge/-sprakhar11-181717?style=flat-square&logo=github&logoColor=white" height="25"/>
-</a>
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/sprakhar07/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:prakhar.infinity@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://leetcode.com/prakhar_infinity/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>&nbsp;
+<a href="https://codeforces.com/profile/prakhar_infinity"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/sprakhar11"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=sprakhar11&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=sprakhar11&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
-<br/>
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ABOUT SECTION -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Computer" width="25" height="25" /> &nbsp;**`> whoami`**
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
+
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="120"/>
 
 ```js
 const prakhar = {
     role: "Software Engineer @ Vittaka (Equirus Wealth)",
-    experience: "2+ years building scalable fintech backends",
-    education: "B.Tech CSE — JSS Academy of Technical Education (8.47 CGPA)",
-    code: ["Kotlin", "Java", "C++", "JavaScript"],
-    stack: {
-        backend:    ["Spring Boot", "REST APIs", "MyBatis"],
-        search:     ["OpenSearch", "Fuzzy Search"],
-        databases:  ["PostgreSQL", "Redis"],
-        tools:      ["Git", "Apache POI", "Webhooks"]
-    },
-    architecture: ["Multi-tenant SaaS", "Batch Processing", "Event-driven"],
-    currentFocus: "Designing high-performance backend systems at scale",
-    funFact: "Reduced API response time from 2s → 100ms ⚡"
+    experience: "2+ years in scalable fintech backends",
+    education: "B.Tech CSE — JSSATE, Noida (8.47 CGPA)",
+    languages: ["Kotlin", "Java", "C++", "JavaScript"],
+    backend: ["Spring Boot", "REST APIs", "MyBatis"],
+    databases: ["PostgreSQL", "Redis", "OpenSearch"],
+    passion: "Turning complex problems into elegant solutions"
 };
 ```
 
+- 🔭 &nbsp;Building **high-performance backend systems** at scale
+- 🏆 &nbsp;**Smart India Hackathon Winner** — Ministry of Education, 2022
+- 🧊 &nbsp;**ICPC Regionalist** — Rank 70 at Gwalior-Pune Regionals
+- ⭐ &nbsp;**Star of the Month ×4** in a single year
+- ⚡ &nbsp;Optimized API response from **2s → 100ms** (20x faster)
+- 🧩 &nbsp;Solved **1080+** problems across competitive platforms
 
-<br/>
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TECH ARSENAL -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Stack
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> &nbsp;**`> tech --stack`**
+### Languages
+<a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 
-<br/><br/>
+### Backend & Frameworks
+<a href="#"><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Apache_POI-D22128?style=for-the-badge&logo=apache&logoColor=white"/></a>
+
+### Databases & Search
+<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white"/></a>
+
+### Tools & Others
+<a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+
+</div>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="28" /> &nbsp;Work Experience
+
+<details>
+<summary><b>🟢 &nbsp;Vittaka (Equirus Wealth Subsidiary) — Software Engineer &nbsp;|&nbsp; Sep 2025 – Present</b></summary>
+<br/>
+<blockquote>
+
+**Kotlin · Java · Spring Boot · OpenSearch · PostgreSQL · MyBatis**
+
+- 🔧 Fixed **production deadlocks** in batch jobs & OpenSearch sync by restructuring transaction boundaries
+- 📦 Designed a configurable **batch/cron scheduling module** for multi-tenant SaaS with runtime JSON-based metadata
+- 🏗️ Owned end-to-end: **SEBI nominee compliance**, **risk profiling**, **5-step client onboarding**, **multi-admin client mapping**
+- 👨‍🏫 Mentored interns with code reviews, technical guidance, and structured learning paths
+
+</blockquote>
+</details>
+
+<details>
+<summary><b>🔵 &nbsp;Equirus Wealth — Software Engineer &nbsp;|&nbsp; Jul 2024 – Aug 2025</b></summary>
+<br/>
+<blockquote>
+
+**Kotlin · Java · Spring Boot · OpenSearch · PostgreSQL · MyBatis**
+
+- 🔍 Built **fuzzy search** with OpenSearch — typo-tolerant, high-accuracy results across the platform
+- 📊 CSV export service streaming **1M+ records** using batched reads & buffered writes — zero memory issues
+- ⚡ Reduced dashboard API response from **2s → 100ms** by optimizing OpenSearch queries
+- 🔐 Built **field-level data masking** with role-based access using custom annotations
+- 🏦 Integrated **Account Aggregator APIs** for real-time bank data via webhooks
+
+</blockquote>
+</details>
+
+<details>
+<summary><b>🟣 &nbsp;Equirus Wealth — Intern &nbsp;|&nbsp; Feb 2024 – Jun 2024</b></summary>
+<br/>
+<blockquote>
+
+- 📑 Built **Excel report generator** with dynamic logos, auto-merge, nested data using Apache POI
+- 🛠️ Developed **30+ REST APIs** with database indexing, cursor-based pagination, schema validation
+- 🔑 Implemented **session management** with activity-based expiry & remember-me tokens via Redis
+
+</blockquote>
+</details>
+
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="28" /> &nbsp;Achievements
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="48" height="48"/>
-<br/><sub><b>Java</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="48" height="48"/>
-<br/><sub><b>Kotlin</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48"/>
-<br/><sub><b>C++</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48"/>
-<br/><sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="48" height="48"/>
-<br/><sub><b>Spring Boot</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST" width="48" height="48"/>
-<br/><sub><b>REST APIs</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48"/>
-<br/><sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="48" height="48"/>
-<br/><sub><b>Redis</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensearch/opensearch-original.svg" alt="OpenSearch" width="48" height="48"/>
-<br/><sub><b>OpenSearch</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
-<br/><sub><b>Git</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>
-<br/><sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
-<br/><sub><b>HTML5</b></sub>
-</td>
+<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" width="48"/><br/><b>SIH Winner</b><br/><sub>National Level 2022<br/>Ministry of Education</sub></td>
+<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" width="48"/><br/><b>Star of Month</b><br/><sub>Awarded 4 times<br/>in a single year</sub></td>
+<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ice.png" width="48"/><br/><b>ICPC Regional</b><br/><sub>Rank 70<br/>Gwalior-Pune 2021</sub></td>
+<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ice.png" width="48"/><br/><b>ICPC Regional</b><br/><sub>Rank 125<br/>Kanpur-Mathura 2022</sub></td>
+<td align="center" width="140"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" width="48"/><br/><b>1080+ Solved</b><br/><sub>LC · CF · CC · GFG</sub></td>
 </tr>
 </table>
 
 </div>
 
-<br/>
-
-<!-- EXPERIENCE SECTION -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> &nbsp;**`> career --timeline`**
-
-</div>
-
-<br/>
-
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                                                                         │
-│  ╔══════════════════════════════════════════════════════════════════╗    │
-│  ║  🟢 VITTAKA (Equirus Wealth Subsidiary)    Sep 2025 — Present  ║    │
-│  ║  Software Engineer                                              ║    │
-│  ╠══════════════════════════════════════════════════════════════════╣    │
-│  ║  → Fixed production deadlocks in batch jobs & OpenSearch sync   ║    │
-│  ║  → Designed configurable batch/cron scheduling for SaaS         ║    │
-│  ║  → Owned SEBI compliance, risk profiling, client onboarding     ║    │
-│  ║  → Mentored interns with code reviews & structured guidance     ║    │
-│  ╚══════════════════════════════════════════════════════════════════╝    │
-│           │                                                             │
-│           ▼                                                             │
-│  ╔══════════════════════════════════════════════════════════════════╗    │
-│  ║  🔵 EQUIRUS WEALTH                        Jul 2024 — Aug 2025  ║    │
-│  ║  Software Engineer                                              ║    │
-│  ╠══════════════════════════════════════════════════════════════════╣    │
-│  ║  → Built fuzzy search with OpenSearch (typo-tolerant)           ║    │
-│  ║  → CSV export streaming 1M+ records with zero memory issues     ║    │
-│  ║  → Reduced API response: 2000ms ──→ 100ms (20x faster)         ║    │
-│  ║  → Field-level data masking with role-based access control      ║    │
-│  ║  → Integrated Account Aggregator APIs for real-time bank data   ║    │
-│  ╚══════════════════════════════════════════════════════════════════╝    │
-│           │                                                             │
-│           ▼                                                             │
-│  ╔══════════════════════════════════════════════════════════════════╗    │
-│  ║  🟣 EQUIRUS WEALTH (Intern)               Feb 2024 — Jun 2024  ║    │
-│  ╠══════════════════════════════════════════════════════════════════╣    │
-│  ║  → Built Excel report generator with Apache POI                 ║    │
-│  ║  → Developed 30+ REST APIs with cursor-based pagination         ║    │
-│  ║  → Implemented session management with Redis                    ║    │
-│  ╚══════════════════════════════════════════════════════════════════╝    │
-│                                                                         │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
-<br/>
-
 <!-- IMPACT METRICS -->
+<br/>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" height="25" /> &nbsp;**`> metrics --impact`**
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/API_Latency-2s_→_100ms-00D9FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Records_Streamed-1M+-6C63FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/REST_APIs_Built-30+-00D9FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Problems_Solved-1080+-6C63FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/⚡_API_Latency-2s_→_100ms-00D9FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/📊_Records_Streamed-1M+-6C63FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🛠️_APIs_Built-30+-00D9FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🧩_Problems_Solved-1080+-6C63FF?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
-<br/>
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ACHIEVEMENTS -->
-<div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="25" height="25" /> &nbsp;**`> achievements --list`**
-
-<br/><br/>
-
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> &nbsp;GitHub Stats
 
 <div align="center">
 
-| | Achievement | Details |
-|:---:|:---|:---|
-| 🏆 | **Smart India Hackathon Winner** | National Level — Ministry of Education, 2022 |
-| ⭐ | **Star of the Month ×4** | Awarded 4 times in a single year for consistent delivery |
-| 🧊 | **ICPC Gwalior-Pune Regional** | Rank **70** (Regionals) · Rank **139** (Prelims) |
-| 🧊 | **ICPC Kanpur-Mathura Regional** | Rank **125** (Regionals) · Rank **300** (Prelims) |
-| 🧩 | **1080+ Problems Solved** | LeetCode · Codeforces · CodeChef · GeeksforGeeks |
+<a href="https://github.com/sprakhar11">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sprakhar11&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&icon_color=6C63FF&text_color=c9d1d9&ring_color=6C63FF" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/sprakhar11">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakhar11&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0d1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/sprakhar11">
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=sprakhar11&theme=tokyonight&hide_border=true&border_radius=12&background=0d1117&stroke=6C63FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/sprakhar11">
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sprakhar11&theme=react-dark&hide_border=true&radius=12&bg_color=0d1117&color=00D9FF&line=6C63FF&point=A9FEF7&area=true&area_color=6C63FF" alt="Activity Graph"/>
+</a>
 
 </div>
 
-<br/>
-
-<!-- GITHUB STATS -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Stats" width="25" height="25" /> &nbsp;**`> git stats --all`**
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sprakhar11&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00D9FF&icon_color=6C63FF&text_color=A9FEF7&ring_color=6C63FF" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sprakhar11&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=0d1117&title_color=00D9FF&text_color=A9FEF7&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sprakhar11&theme=radical&hide_border=true&border_radius=15&background=0d1117&stroke=6C63FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=A9FEF7&currStreakNum=A9FEF7&sideNums=A9FEF7&dates=555555" alt="GitHub Streak"/>
-
-<br/>
-
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sprakhar11&theme=react-dark&hide_border=true&radius=15&bg_color=0d1117&color=00D9FF&line=6C63FF&point=A9FEF7&area=true&area_color=6C63FF" alt="Activity Graph"/>
-
-</div>
-
-<br/>
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- SNAKE ANIMATION -->
 <div align="center">
@@ -249,6 +205,18 @@ const prakhar = {
 <!-- FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C63FF,100:00D9FF&height=120&section=footer"/>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" /> Let's Connect & Build Something Amazing!
+
+<br/>
+
+<a href="https://www.linkedin.com/in/sprakhar07/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:prakhar.infinity@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
+
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6C63FF,100:00D9FF&height=120&section=footer"/>
